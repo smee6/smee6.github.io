@@ -1,6 +1,6 @@
-title : Elementary - Jekyll Blog Theme
-name: 'Elementary Jekyll Theme'
-description: 'Simple, light weight, responsive jekyll theme for hackers'
+title : 'seoMyungIn'
+name: 'SEO gitTechBlog'
+description: '테크 & 개발 블로그 '
 
 markdown: kramdown
 highlighter: rouge
@@ -17,11 +17,11 @@ featured_posts:
 
 collections:
   news:
-    title: News
+    title: 잡담
     default_open: false
     output: true
   posts:
-    title: Essays
+    title: TIL (Today I learned)
     default_open: true
     output: true
 
