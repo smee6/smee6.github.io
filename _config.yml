@@ -1,6 +1,6 @@
-title : 'seoMyungIn'
-name: 'SEO gitTechBlog'
-description: '테크 & 개발 블로그 '
+title : 'seoMyungInGitTechBlog'
+name: 'seoMyungInGitTechBlog'
+description: '테크 & 개발 블로그'
 
 markdown: kramdown
 highlighter: rouge
@@ -8,7 +8,7 @@ javascript_enabled: true
 
 collections:
   news:
-    title: 잡담
+    title: Notice
     default_open: false
     output: true
   posts:

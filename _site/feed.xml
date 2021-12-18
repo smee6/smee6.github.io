@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>seoMyungIn</title>
-    <description>테크 &amp; 개발 블로그 </description>
+    <title>seoMyungInGitTechBlog</title>
+    <description>테크 &amp; 개발 블로그</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Dec 2021 14:22:57 +0900</pubDate>
-    <lastBuildDate>Sat, 18 Dec 2021 14:22:57 +0900</lastBuildDate>
+    <pubDate>Sat, 18 Dec 2021 16:56:52 +0900</pubDate>
+    <lastBuildDate>Sat, 18 Dec 2021 16:56:52 +0900</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
