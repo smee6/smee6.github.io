@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Rest Api or GraphQL
 tags:
 - text
 ---
