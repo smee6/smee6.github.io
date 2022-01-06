@@ -15,10 +15,6 @@ collections:
     title: TIL (Today I learned)
     default_open: true
     output: true
-  posts2:
-    title: TIL2 (Today I learned)
-    default_open: true
-    output: true
 
 defaults:
   - scope:
@@ -31,11 +27,6 @@ defaults:
     values:
       title: News
       permalink: /news/:title
-  - scope:
-      type: posts2
-    values:
-      title: Essays
-      permalink: /post2/:title
 
 plugins:
   - jekyll-sitemap
