@@ -15,6 +15,10 @@ collections:
     title: TIL (Today I learned)
     default_open: true
     output: true
+  posts2:
+    title: TIL2 (Today I learned)
+    default_open: true
+    output: true
 
 defaults:
   - scope:
